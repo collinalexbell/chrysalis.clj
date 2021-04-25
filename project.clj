@@ -3,6 +3,6 @@
   :url "https://github.com/kuberlog/chrysalis.clj"
   :license {:name "GNU GPLv3"
             :url "https://www.gnu.org/licenses/gpl-3.0.html"}
-  :dependencies []
+  :dependencies [[org.clojure/clojure "1.10.3"]]
   :main chrysalis.core)
 
